@@ -1,0 +1,40 @@
+Communicating with client
+Client socket          : 6
+Request type         : 4
+Request data         : ./header|ok.txt
+
+Communicating with SS : -1
+SS socket             : 6
+Request type         : 301
+Request data         : 
+
+Communicating with client
+Client socket          : 6
+Request type         : 4
+Request data         : ./helper|ok.txt
+
+Communicating with SS : 0
+SS socket             : 6
+Request type         : 100
+Request data         : 
+
+Communicating with client
+Client socket          : 6
+Request type         : 2
+Request data         : ./helper/ok.txt
+
+Communicating with client
+Client socket          : 6
+Request type         : 1
+Request data         : ./helper/ok.txt
+
+Communicating with client
+Client socket          : 6
+Request type         : 6
+Request data         : ./helper/ok.txt
+
+Communicating with SS : -1
+SS socket             : 6
+Request type         : 100
+Request data         : 
+
